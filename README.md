@@ -4,7 +4,7 @@ The Tris is a clone of a rather well known game of Russian origin written in x86
 
 I wrote this in 1994-1995 as an exercise to learn the x86 assembly language. 
 
-The code isn't of particularly high quality. E.g, everything is in one large file, and some of the comments are in Finnish, etc. I might clean it up at some stage, but I'm publishing it as is for now.
+The code isn't of particularly high quality. E.g., everything is in one large file, and some of the labels and comments are in Finnish, etc. I might clean it up at some point, but I'm publishing it as is for now.
 
 ## How to Compile
 
