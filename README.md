@@ -1,8 +1,8 @@
 # The Tris
 
-The Tris is a clone of a rather well known game of Russian origin written in x86 assembly and IBM PC architecture.
+The Tris is a clone of a rather well known game of Russian origin, written in 100 % 80386 assembly, for the IBM PC clone architecture.
 
-I wrote this in 1994-1995 as an exercise to learn the x86 assembly language. 
+I wrote this in 1994-1995 as an exercise to learn the x86 assembly language. If my memory serves me correctly, I got a ton of hints and tips from Teemu Valtonen (aka. Saracen/EMF back in the demo scene days).
 
 The code isn't of particularly high quality. E.g., everything is in one large file, and some of the labels and comments are in Finnish, etc. I might clean it up at some point, but I'm publishing it as is for now.
 
