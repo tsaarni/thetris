@@ -37,6 +37,13 @@ C:\THETRIS>thetris
 | *.OBJ        | These are the graphics as linkable OBJ files.                                   |
 | *.LBM        | The graphics in Deluxe Paint format (320 px x 200 px, 256 colors)               |
 
+## Screenshots
+
+![Welcome Screen](./screenshots/thetris_000.png?raw=true)
+![Gameplay](./screenshots/thetris_001.png?raw=true)
+![Game Over](./screenshots/thetris_002.png?raw=true)
+![Setup Screen](./screenshots/thetris_003.png?raw=true)
+
 ## Contributors
 
 All graphics were done by Tero Saarni back in the day.
